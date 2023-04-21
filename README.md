@@ -7,7 +7,7 @@
 #### Get item
 
 ```http
-  GET https://rawcdn.githack.com/prolaxu/nepali-panchang-json-db/f2192ce1c09f16511b00e817d947c129c8e7bcc1/${year}/${month}/${day}.json
+  GET https://raw.githubusercontent.com/prolaxu/nepali-panchang-json-db/main/${year}/${month}/${day}.json
 ```
 
 | Parameter | Type     | Description                       |
